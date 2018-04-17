@@ -1,0 +1,2 @@
+include 'somehelper', 'app'
+rootProject.name = 'longwatraits'
